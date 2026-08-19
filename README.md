@@ -50,8 +50,8 @@ python chatbot_gui.py
 
 ```text
 ChatBot: Hi! I am your ChatBot. What is your name?
-You: Hansika
-ChatBot: Nice to meet you, Hansika!
+You: Navya
+ChatBot: Nice to meet you, Navya!
 
 You: hello
 ChatBot: Hello! How are you?
@@ -61,7 +61,7 @@ ChatBot: Why did the programmer quit?
 ChatBot: Because they didn't get enough bytes!
 
 You: bye
-ChatBot: Goodbye, Hansika! Have a great day!
+ChatBot: Goodbye, Navya! Have a great day!
 ```
 
 ## How It Works
