@@ -8,7 +8,7 @@ from google.genai import types
 # GEMINI API SETUP
 # ==================================================
 
-API_KEY = "AQ.Ab8RN6Lll0T0duRKA3OtH-DkoF4kjbrNNlcBNkdbIiN73N0gNQ"  # Replace with your actual API key
+API_KEY = "YOUR API KEY"  # Replace with your actual API key
 
 client = genai.Client(
     api_key=API_KEY
