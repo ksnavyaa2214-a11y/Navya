@@ -15,7 +15,7 @@ import webbrowser
 # GEMINI API SETUP
 # ==================================================
 
-API_KEY = "AQ.Ab8RN6Lll0T0duRKA3OtH-DkoF4kjbrNNlcBNkdbIiN73N0gNQ"
+API_KEY = "YOUR API KEY"
 
 client = genai.Client(
     api_key=API_KEY
